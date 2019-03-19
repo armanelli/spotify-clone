@@ -5,7 +5,7 @@ import { Container, Current, Volume, Progress, Controls, Time, ProgressSlider } 
 
 import VolumeIcon from "../../assets/images/volume.svg";
 
-import ShuffleIcon from "../../assets/images/volume.svg";
+import ShuffleIcon from "../../assets/images/shuffle.svg";
 import BackwardIcon from "../../assets/images/backward.svg";
 import ForwardIcon from "../../assets/images/forward.svg";
 import PlayIcon from "../../assets/images/play.svg";
